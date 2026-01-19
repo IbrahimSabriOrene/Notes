@@ -28,4 +28,4 @@ Agent and/or brokers. Help people to finding the most suitable insurance for the
 <p style="font-size:18px;font-weight:500"><span style="color:#fb4640;">Stock Insurance Companies :</span>They offer you premiums based on market condition.  
 </p>
 
-<p style="font-size:18px;font-weight:500"><span style="color:#fb4640;">Captive Insurance Companies :</span>Basically a company insures himself by creating a captive insurance company (Need more context for now) </p>
+<p style="font-size:18px;font-weight:500"><span style="color:#fb4640;">Captive Insurance Companies :</span>Basically a company insures himself by creating a captive insurance company (Need more context.) </p>
